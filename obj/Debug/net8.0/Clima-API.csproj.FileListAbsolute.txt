@@ -1,0 +1,14 @@
+/home/gustavo/Clima-API/bin/Debug/net8.0/Clima-API
+/home/gustavo/Clima-API/bin/Debug/net8.0/Clima-API.deps.json
+/home/gustavo/Clima-API/bin/Debug/net8.0/Clima-API.runtimeconfig.json
+/home/gustavo/Clima-API/bin/Debug/net8.0/Clima-API.dll
+/home/gustavo/Clima-API/bin/Debug/net8.0/Clima-API.pdb
+/home/gustavo/Clima-API/obj/Debug/net8.0/Clima-API.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Clima-API/obj/Debug/net8.0/Clima-API.AssemblyInfoInputs.cache
+/home/gustavo/Clima-API/obj/Debug/net8.0/Clima-API.AssemblyInfo.cs
+/home/gustavo/Clima-API/obj/Debug/net8.0/Clima-API.csproj.CoreCompileInputs.cache
+/home/gustavo/Clima-API/obj/Debug/net8.0/Clima-API.dll
+/home/gustavo/Clima-API/obj/Debug/net8.0/refint/Clima-API.dll
+/home/gustavo/Clima-API/obj/Debug/net8.0/Clima-API.pdb
+/home/gustavo/Clima-API/obj/Debug/net8.0/Clima-API.genruntimeconfig.cache
+/home/gustavo/Clima-API/obj/Debug/net8.0/ref/Clima-API.dll
