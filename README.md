@@ -36,5 +36,4 @@ Projeto desenvolvido com foco em aprendizado, para praticar:
 - Organização básica de um projeto real
 
 ## 📌 Observações
-- É necessário possuir uma chave de API válida da WeatherAPI
 - Projeto com fins educacionais
