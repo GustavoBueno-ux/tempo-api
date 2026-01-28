@@ -37,3 +37,4 @@ Projeto desenvolvido com foco em aprendizado, para praticar:
 
 ## 📌 Observações
 - Projeto com fins educacionais
+- Informações não 100% precisas
